@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641582776117",
+    "project_id": "seniorreminder-f0d0f",
+    "storage_bucket": "seniorreminder-f0d0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641582776117:android:1b5d7550d3bcf33761967c",
+        "android_client_info": {
+          "package_name": "com.example.senior_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeO4vCk9-56O7MyrFHCTRbE3p2MX4VN9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
